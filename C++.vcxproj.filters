@@ -1,0 +1,375 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="소스 파일">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;c++;cppm;ixx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="헤더 파일">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;h++;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="리소스 파일">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="소스 파일\chap01_향상된C++">
+      <UniqueIdentifier>{67af7be9-3407-48d4-a957-9711526193d9}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\chap02_메모리 동적할당">
+      <UniqueIdentifier>{dae03363-9060-4961-ab51-971bf9c4d31f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\chap03_구조체와 클래스">
+      <UniqueIdentifier>{dfe279f3-8c76-4020-87a4-e9cf4d39856c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\chap04_OOP">
+      <UniqueIdentifier>{522e5c73-8a42-4305-89d1-30a6f04cd746}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\chap05_this_static">
+      <UniqueIdentifier>{6b25b4bd-da9f-4883-b6cd-e2023c0c7af0}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\chap06_복사생성자">
+      <UniqueIdentifier>{069ed0d7-1bca-44f2-aed3-c8a52bc18b24}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\Chap07_객체배열">
+      <UniqueIdentifier>{38c29ca2-d078-494a-88f6-4b78766897d1}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\Chap08_도서관리프로그램">
+      <UniqueIdentifier>{df2424e5-7f28-4209-a00e-2865b6f934b8}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\Chap09_미니게임">
+      <UniqueIdentifier>{61a45b4e-8fed-454f-ae1f-28cf4d438ec7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\Chap10_연산자오버로딩">
+      <UniqueIdentifier>{583d5a1a-18d1-47a0-ab38-449dca9b8798}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\Chap11_MyString 클래스">
+      <UniqueIdentifier>{be519bc1-e7e5-4c63-a960-7fe94fb834b4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\Chap12 상속">
+      <UniqueIdentifier>{bc0dcc9d-34d8-4189-beb3-40d2b50b4ccc}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\Chap13 함수포인터">
+      <UniqueIdentifier>{8fa31b29-26f9-4b9e-bcee-1892cd6601c6}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\Chap14 다형성">
+      <UniqueIdentifier>{f9b94696-5dd7-4deb-a9f5-0184f18aa465}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\Chap15 템플릿">
+      <UniqueIdentifier>{d5ae7afd-fb3f-4638-9660-a393d83e485e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\Chap16 예외처리">
+      <UniqueIdentifier>{029337ee-3776-4795-8db1-3a795833b40c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\Chap17 STL">
+      <UniqueIdentifier>{31713cf3-a484-4ea7-8952-7f9151c8bb2b}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="Ex01_입출력.cpp">
+      <Filter>소스 파일\chap01_향상된C++</Filter>
+    </ClCompile>
+    <ClCompile Include="Ex02_함수오버로딩.cpp">
+      <Filter>소스 파일\chap01_향상된C++</Filter>
+    </ClCompile>
+    <ClCompile Include="Ex03_디폴트파라미터.cpp">
+      <Filter>소스 파일\chap01_향상된C++</Filter>
+    </ClCompile>
+    <ClCompile Include="Ex04_디폴트파라미터.cpp">
+      <Filter>소스 파일\chap01_향상된C++</Filter>
+    </ClCompile>
+    <ClCompile Include="Ex05_네임스페이스.cpp">
+      <Filter>소스 파일\chap01_향상된C++</Filter>
+    </ClCompile>
+    <ClCompile Include="Ex06_레퍼런스.cpp">
+      <Filter>소스 파일\chap01_향상된C++</Filter>
+    </ClCompile>
+    <ClCompile Include="Ex07_래퍼런스.cpp">
+      <Filter>소스 파일\chap01_향상된C++</Filter>
+    </ClCompile>
+    <ClCompile Include="Ex08_래퍼런스.cpp">
+      <Filter>소스 파일\chap01_향상된C++</Filter>
+    </ClCompile>
+    <ClCompile Include="Ex09_범위기반for문.cpp">
+      <Filter>소스 파일\chap01_향상된C++</Filter>
+    </ClCompile>
+    <ClCompile Include="Ex10_bool형.cpp">
+      <Filter>소스 파일\chap01_향상된C++</Filter>
+    </ClCompile>
+    <ClCompile Include="250821_과제.cpp">
+      <Filter>소스 파일\chap01_향상된C++</Filter>
+    </ClCompile>
+    <ClCompile Include="Ex01_메모리 동적할당.cpp">
+      <Filter>소스 파일\chap02_메모리 동적할당</Filter>
+    </ClCompile>
+    <ClCompile Include="Ex02_메모리 동적할당.cpp">
+      <Filter>소스 파일\chap02_메모리 동적할당</Filter>
+    </ClCompile>
+    <ClCompile Include="Ex03_메모리 동적할당.cpp">
+      <Filter>소스 파일\chap02_메모리 동적할당</Filter>
+    </ClCompile>
+    <ClCompile Include="Ex04_메모리동적할당.cpp">
+      <Filter>소스 파일\chap02_메모리 동적할당</Filter>
+    </ClCompile>
+    <ClCompile Include="Ex05_문자열 연결.cpp">
+      <Filter>소스 파일\chap02_메모리 동적할당</Filter>
+    </ClCompile>
+    <ClCompile Include="Ex01_구조체와 클래스.cpp">
+      <Filter>소스 파일\chap03_구조체와 클래스</Filter>
+    </ClCompile>
+    <ClCompile Include="Ex02_Triangle클래스.cpp">
+      <Filter>소스 파일\chap03_구조체와 클래스</Filter>
+    </ClCompile>
+    <ClCompile Include="Ex03_Circle클래스.cpp">
+      <Filter>소스 파일\chap03_구조체와 클래스</Filter>
+    </ClCompile>
+    <ClCompile Include="Ex04_사다리꼴클래스.cpp">
+      <Filter>소스 파일\chap03_구조체와 클래스</Filter>
+    </ClCompile>
+    <ClCompile Include="250828_과제1.cpp">
+      <Filter>소스 파일\chap03_구조체와 클래스</Filter>
+    </ClCompile>
+    <ClCompile Include="250828_과제2.cpp">
+      <Filter>소스 파일\chap03_구조체와 클래스</Filter>
+    </ClCompile>
+    <ClCompile Include="250828_과제3.cpp">
+      <Filter>소스 파일\chap03_구조체와 클래스</Filter>
+    </ClCompile>
+    <ClCompile Include="Ex04_Calculator.cpp">
+      <Filter>소스 파일\chap03_구조체와 클래스</Filter>
+    </ClCompile>
+    <ClCompile Include="Ex04_가위바위보.cpp">
+      <Filter>소스 파일\chap03_구조체와 클래스</Filter>
+    </ClCompile>
+    <ClCompile Include="Ex05_Another가위바위보.cpp">
+      <Filter>소스 파일\chap03_구조체와 클래스</Filter>
+    </ClCompile>
+    <ClCompile Include="Ex01_접근제어자.cpp">
+      <Filter>소스 파일\chap04_OOP</Filter>
+    </ClCompile>
+    <ClCompile Include="Ex02_생성자.cpp">
+      <Filter>소스 파일\chap04_OOP</Filter>
+    </ClCompile>
+    <ClCompile Include="Ex03_Circle.cpp">
+      <Filter>소스 파일\chap04_OOP</Filter>
+    </ClCompile>
+    <ClCompile Include="Ex04_Book.cpp">
+      <Filter>소스 파일\chap04_OOP</Filter>
+    </ClCompile>
+    <ClCompile Include="Ex05_Movie.cpp">
+      <Filter>소스 파일\chap04_OOP</Filter>
+    </ClCompile>
+    <ClCompile Include="Ex06_Car클래스.cpp">
+      <Filter>소스 파일\chap04_OOP</Filter>
+    </ClCompile>
+    <ClCompile Include="Ex07_Employee.cpp">
+      <Filter>소스 파일\chap04_OOP</Filter>
+    </ClCompile>
+    <ClCompile Include="Ex07_소멸자.cpp">
+      <Filter>소스 파일\chap04_OOP</Filter>
+    </ClCompile>
+    <ClCompile Include="Ex08_DynamicintArray.cpp">
+      <Filter>소스 파일\chap04_OOP</Filter>
+    </ClCompile>
+    <ClCompile Include="Ex09_DynamicCharArray.cpp">
+      <Filter>소스 파일\chap04_OOP</Filter>
+    </ClCompile>
+    <ClCompile Include="Ex01_this_static.cpp">
+      <Filter>소스 파일\chap05_this_static</Filter>
+    </ClCompile>
+    <ClCompile Include="Ex02_과제1.cpp">
+      <Filter>소스 파일\chap05_this_static</Filter>
+    </ClCompile>
+    <ClCompile Include="Ex02_Product.cpp">
+      <Filter>소스 파일\chap05_this_static</Filter>
+    </ClCompile>
+    <ClCompile Include="Ex03_Mart.cpp">
+      <Filter>소스 파일\chap05_this_static</Filter>
+    </ClCompile>
+    <ClCompile Include="Ex01_복사생성자.cpp">
+      <Filter>소스 파일\chap06_복사생성자</Filter>
+    </ClCompile>
+    <ClCompile Include="Ex02_복사생성자.cpp">
+      <Filter>소스 파일\chap06_복사생성자</Filter>
+    </ClCompile>
+    <ClCompile Include="250918_과제.cpp">
+      <Filter>소스 파일\chap06_복사생성자</Filter>
+    </ClCompile>
+    <ClCompile Include="Ex01_객체배열.cpp">
+      <Filter>소스 파일\Chap07_객체배열</Filter>
+    </ClCompile>
+    <ClCompile Include="Ex02_객체포인터 배열.cpp">
+      <Filter>소스 파일\Chap07_객체배열</Filter>
+    </ClCompile>
+    <ClCompile Include="Ex03_게임캐릭터.cpp">
+      <Filter>소스 파일\Chap07_객체배열</Filter>
+    </ClCompile>
+    <ClCompile Include="Book.cpp">
+      <Filter>소스 파일\Chap08_도서관리프로그램</Filter>
+    </ClCompile>
+    <ClCompile Include="BookContainer.cpp">
+      <Filter>소스 파일\Chap08_도서관리프로그램</Filter>
+    </ClCompile>
+    <ClCompile Include="도서관리프로그램main.cpp">
+      <Filter>소스 파일\Chap08_도서관리프로그램</Filter>
+    </ClCompile>
+    <ClCompile Include="Student.cpp">
+      <Filter>소스 파일\Chap08_도서관리프로그램</Filter>
+    </ClCompile>
+    <ClCompile Include="학생관리프로그램main.cpp">
+      <Filter>소스 파일\Chap08_도서관리프로그램</Filter>
+    </ClCompile>
+    <ClCompile Include="StudentContainer.cpp">
+      <Filter>소스 파일\Chap08_도서관리프로그램</Filter>
+    </ClCompile>
+    <ClCompile Include="Ex01_이차원배열 동적할당.cpp">
+      <Filter>소스 파일\Chap09_미니게임</Filter>
+    </ClCompile>
+    <ClCompile Include="Ex02_몬스터제거게임.cpp">
+      <Filter>소스 파일\Chap09_미니게임</Filter>
+    </ClCompile>
+    <ClCompile Include="Ex03_Fisher_yates.cpp">
+      <Filter>소스 파일\Chap09_미니게임</Filter>
+    </ClCompile>
+    <ClCompile Include="251002_과제.cpp">
+      <Filter>소스 파일\Chap09_미니게임</Filter>
+    </ClCompile>
+    <ClCompile Include="Ex01_연산자오버로딩.cpp">
+      <Filter>소스 파일\Chap10_연산자오버로딩</Filter>
+    </ClCompile>
+    <ClCompile Include="Point.cpp">
+      <Filter>소스 파일\Chap10_연산자오버로딩</Filter>
+    </ClCompile>
+    <ClCompile Include="Ex02_cout의 비밀.cpp">
+      <Filter>소스 파일\Chap10_연산자오버로딩</Filter>
+    </ClCompile>
+    <ClCompile Include="Mystring.cpp">
+      <Filter>소스 파일\Chap11_MyString 클래스</Filter>
+    </ClCompile>
+    <ClCompile Include="main.cpp">
+      <Filter>소스 파일\Chap11_MyString 클래스</Filter>
+    </ClCompile>
+    <ClCompile Include="Ex01_상속.cpp">
+      <Filter>소스 파일\Chap12 상속</Filter>
+    </ClCompile>
+    <ClCompile Include="Human.cpp">
+      <Filter>소스 파일\Chap12 상속</Filter>
+    </ClCompile>
+    <ClCompile Include="health_main.cpp">
+      <Filter>소스 파일\Chap12 상속</Filter>
+    </ClCompile>
+    <ClCompile Include="Health.cpp">
+      <Filter>소스 파일\Chap12 상속</Filter>
+    </ClCompile>
+    <ClCompile Include="member.cpp">
+      <Filter>소스 파일\Chap12 상속</Filter>
+    </ClCompile>
+    <ClCompile Include="Ex01_함수포인터.cpp">
+      <Filter>소스 파일\Chap13 함수포인터</Filter>
+    </ClCompile>
+    <ClCompile Include="Ex02_함수포인터의 활용.cpp">
+      <Filter>소스 파일\Chap13 함수포인터</Filter>
+    </ClCompile>
+    <ClCompile Include="Ex03_함수 포인터의 활용.cpp">
+      <Filter>소스 파일\Chap13 함수포인터</Filter>
+    </ClCompile>
+    <ClCompile Include="Ex04_qsort.cpp">
+      <Filter>소스 파일\Chap13 함수포인터</Filter>
+    </ClCompile>
+    <ClCompile Include="Ex05_qsort.cpp">
+      <Filter>소스 파일\Chap13 함수포인터</Filter>
+    </ClCompile>
+    <ClCompile Include="Ex01_가상함수.cpp">
+      <Filter>소스 파일\Chap14 다형성</Filter>
+    </ClCompile>
+    <ClCompile Include="251030_과제.cpp">
+      <Filter>소스 파일\Chap14 다형성</Filter>
+    </ClCompile>
+    <ClCompile Include="Ex01_템플릿.cpp">
+      <Filter>소스 파일\Chap15 템플릿</Filter>
+    </ClCompile>
+    <ClCompile Include="Ex02_템플릿.cpp">
+      <Filter>소스 파일\Chap15 템플릿</Filter>
+    </ClCompile>
+    <ClCompile Include="Ex03_클래스 템플릿.cpp">
+      <Filter>소스 파일\Chap15 템플릿</Filter>
+    </ClCompile>
+    <ClCompile Include="Ex01_예외처리.cpp">
+      <Filter>소스 파일\Chap16 예외처리</Filter>
+    </ClCompile>
+    <ClCompile Include="Ex01_array.cpp">
+      <Filter>소스 파일\Chap17 STL</Filter>
+    </ClCompile>
+    <ClCompile Include="Ex02_myArray.cpp">
+      <Filter>소스 파일\Chap17 STL</Filter>
+    </ClCompile>
+    <ClCompile Include="251031_과제.cpp">
+      <Filter>소스 파일\Chap17 STL</Filter>
+    </ClCompile>
+    <ClCompile Include="Ex03_Vector.cpp">
+      <Filter>소스 파일\Chap17 STL</Filter>
+    </ClCompile>
+    <ClCompile Include="Ex04_myVector.cpp">
+      <Filter>소스 파일\Chap17 STL</Filter>
+    </ClCompile>
+    <ClCompile Include="Ex05_카페 주문.cpp">
+      <Filter>소스 파일\Chap17 STL</Filter>
+    </ClCompile>
+    <ClCompile Include="Ex06_forward_list.cpp">
+      <Filter>소스 파일\Chap17 STL</Filter>
+    </ClCompile>
+    <ClCompile Include="Ex07_MyList.cpp">
+      <Filter>소스 파일\Chap17 STL</Filter>
+    </ClCompile>
+    <ClCompile Include="Ex08_람다.cpp">
+      <Filter>소스 파일\Chap17 STL</Filter>
+    </ClCompile>
+    <ClCompile Include="Ex09_람다.cpp">
+      <Filter>소스 파일\Chap17 STL</Filter>
+    </ClCompile>
+    <ClCompile Include="Ex10_좀비게임.cpp">
+      <Filter>소스 파일\Chap17 STL</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Character.h">
+      <Filter>소스 파일\Chap07_객체배열</Filter>
+    </ClInclude>
+    <ClInclude Include="CharacterContainer.h">
+      <Filter>소스 파일\Chap07_객체배열</Filter>
+    </ClInclude>
+    <ClInclude Include="Book.h">
+      <Filter>소스 파일\Chap08_도서관리프로그램</Filter>
+    </ClInclude>
+    <ClInclude Include="BookContainer.h">
+      <Filter>소스 파일\Chap08_도서관리프로그램</Filter>
+    </ClInclude>
+    <ClInclude Include="Student2.h">
+      <Filter>소스 파일\Chap08_도서관리프로그램</Filter>
+    </ClInclude>
+    <ClInclude Include="StudentContainer.h">
+      <Filter>소스 파일\Chap08_도서관리프로그램</Filter>
+    </ClInclude>
+    <ClInclude Include="ConsoleUtils.h">
+      <Filter>소스 파일\Chap09_미니게임</Filter>
+    </ClInclude>
+    <ClInclude Include="Point.h">
+      <Filter>소스 파일\Chap10_연산자오버로딩</Filter>
+    </ClInclude>
+    <ClInclude Include="Mystring.h">
+      <Filter>소스 파일\Chap11_MyString 클래스</Filter>
+    </ClInclude>
+    <ClInclude Include="Human.h">
+      <Filter>소스 파일\Chap12 상속</Filter>
+    </ClInclude>
+    <ClInclude Include="Student.h">
+      <Filter>소스 파일\Chap12 상속</Filter>
+    </ClInclude>
+    <ClInclude Include="Health.h">
+      <Filter>소스 파일\Chap12 상속</Filter>
+    </ClInclude>
+    <ClInclude Include="member.h">
+      <Filter>소스 파일\Chap12 상속</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>
