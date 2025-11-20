@@ -330,6 +330,12 @@
     <ClCompile Include="Ex10_좀비게임.cpp">
       <Filter>소스 파일\Chap17 STL</Filter>
     </ClCompile>
+    <ClCompile Include="Ex11_map.cpp">
+      <Filter>소스 파일\Chap17 STL</Filter>
+    </ClCompile>
+    <ClCompile Include="Ex12_단어맞추기게임.cpp">
+      <Filter>소스 파일\Chap17 STL</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Character.h">
