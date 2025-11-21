@@ -43,8 +43,9 @@ int main()
 	vector<int> nums = { 1,5,10,15,20 };
 	int limit = 10;
 
-	//remove_if : 필터링후, 조건에 맞지 않는 요소의 시작 주소를 가리키는 Iterator를 리턴
-	//remove_if는 필터링된 요소를 앞에서 부터 채움.(순서유지)
+	//remove_if는 실제 데이터를 삭제하지 않는다
+	//조건에 맞는 요소들을 뒤쪽으로 밀어낸다
+	//remove_if : 조건에 맞는 시작 Iterator를 리턴
 
 	nums.erase(std::remove_if(nums.begin(), nums.end(), [limit](int num) {return num > limit; }),nums.end());
 
