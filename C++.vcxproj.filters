@@ -348,6 +348,24 @@
     <ClCompile Include="Ex16_성적관리프로그램.cpp">
       <Filter>소스 파일\Chap17 STL</Filter>
     </ClCompile>
+    <ClCompile Include="Ex17_unordered_map.cpp">
+      <Filter>소스 파일\Chap17 STL</Filter>
+    </ClCompile>
+    <ClCompile Include="Ex18_unordered_map.cpp">
+      <Filter>소스 파일\Chap17 STL</Filter>
+    </ClCompile>
+    <ClCompile Include="Ex19_unordered_map-1.cpp">
+      <Filter>소스 파일\Chap17 STL</Filter>
+    </ClCompile>
+    <ClCompile Include="Ex19_unordered_map-2.cpp">
+      <Filter>소스 파일\Chap17 STL</Filter>
+    </ClCompile>
+    <ClCompile Include="Ex19_unordered_map-3.cpp">
+      <Filter>소스 파일\Chap17 STL</Filter>
+    </ClCompile>
+    <ClCompile Include="Ex19_unordered_map-4.cpp">
+      <Filter>소스 파일\Chap17 STL</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Character.h">
